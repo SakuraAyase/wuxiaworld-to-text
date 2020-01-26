@@ -1,2 +1,2 @@
 # wuxiaworld-to-text
-Download available novel friom wuxiaworld.com, and store it into text.
+Download available novels from wuxiaworld.com, and store it into text.
